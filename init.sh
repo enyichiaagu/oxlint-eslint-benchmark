@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-echo "=========================================="
-echo "Comparing Oxlint to ESLint performance"
-echo "=========================================="
+echo "========================================================="
+echo "Comparing Oxlint to ESLint performance in React Router"
+echo "========================================================="
 echo ""
 
 # Create tmp directory for React Router Repo
